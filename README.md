@@ -1,6 +1,7 @@
 # Todo Application
 
 This is a simple Todo application built with React. The application allows users to add, update, edit, delete, and toggle the completion status of tasks.
+![Screenshot 2024-07-05 011115](https://github.com/Vamshi-yadav07/todo-app/assets/154038542/d4d19490-7b58-4286-adeb-eb282fb35253)
 
 ## Features
 
