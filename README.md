@@ -28,8 +28,7 @@ git clone https://github.com/your-username/todo-application.git
 cd todo-application
 
 2.Install dependencies:
+
 . npm install
 . npm start
 
-3. Project Structure
-   ![Screenshot 2024-07-05 005856](https://github.com/Vamshi-yadav07/todo-app/assets/154038542/516fc1a3-e59e-4249-af7d-d9a025dfef5d)
