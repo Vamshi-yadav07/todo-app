@@ -25,10 +25,12 @@ You need to have Node.js in your machine
 
 --commands:
 git clone https://github.com/your-username/todo-application.git
+
 cd todo-application
 
 2.Install dependencies:
 
 . npm install
+
 . npm start
 
